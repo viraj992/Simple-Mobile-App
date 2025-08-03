@@ -24,8 +24,3 @@ Before running this project, make sure you have the following installed:
 - [Dart SDK](https://dart.dev/get-dart) (usually comes with Flutter)
 - An editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
-### Installing
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-flutter-project.git
